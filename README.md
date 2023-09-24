@@ -1,4 +1,4 @@
-Task: Fine-Tuning BERT for classifying Question Sincerity
+Task: Fine-Tuning BERT for Classifying Question Sincerity
 
 Packages: Numpy, Tensoflow 
 
