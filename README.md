@@ -1,3 +1,5 @@
+Task: Fine-Tuning BERT for classifying Question Sincerity
+
 Packages: Numpy, Tensoflow 
 
 Model:  BERT https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/2
